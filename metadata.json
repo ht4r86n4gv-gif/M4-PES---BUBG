@@ -1,0 +1,6 @@
+{
+  "name": "M4 PES",
+  "description": "Professional football mobile app for eFootball PES Mobile players with M4 Booster, wheel of luck, player training, coaches, special builds, formation analysis, and M4 store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
